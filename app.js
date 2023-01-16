@@ -1,1 +1,3 @@
-console.log("oh no fish");
+function loggedIn() {
+    return true;
+}
